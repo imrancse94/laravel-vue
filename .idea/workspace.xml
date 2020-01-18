@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b123b995-250f-4e50-b855-726515f4bf85" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/data/76/e7/76e7c0fdd0cc0d46502f9d381b947cdf6aa69891" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/data/76/e7/76e7c0fdd0cc0d46502f9d381b947cdf6aa69891" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/data/9c/1c/9c1c01dc3ac1445a500251fc34a15d3e75a849df" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/data/9c/1c/9c1c01dc3ac1445a500251fc34a15d3e75a849df" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +183,7 @@
       <updated>1579024706673</updated>
       <workItem from="1579024718104" duration="1910000" />
       <workItem from="1579321602376" duration="1797000" />
-      <workItem from="1579332788714" duration="599000" />
+      <workItem from="1579332788714" duration="633000" />
     </task>
     <servers />
   </component>
@@ -205,5 +203,9 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="396" y="109" width="630" height="575" key="RollbackChangesDialog/67.27.1299.741@67.27.1299.741" timestamp="1579322039053" />
+    <state x="441" y="228" width="540" height="336" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1579343334434">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="441" y="228" width="540" height="336" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/67.27.1299.741@67.27.1299.741" timestamp="1579343334434" />
   </component>
 </project>
